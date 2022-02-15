@@ -1,0 +1,10 @@
+{
+
+    "user":"root",
+    "password":"",
+    "host":"localhost",
+    "dbName":"libreria",
+    "dbType":"mysql",
+    "charset":"utf8mb4"
+
+}

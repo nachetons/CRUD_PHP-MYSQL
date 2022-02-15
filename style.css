@@ -1,0 +1,53 @@
+.table1{
+    border-collapse:collapse;
+    border:1px solid #ccc;
+    width:50%;
+}
+
+td{
+    border:1px solid #ccc;
+    padding:5px;
+}
+
+
+
+.button{
+
+    text-decoration:none;
+    color:black;
+    padding:0.20em 1.5em;
+    margin:0 0.3em 0.3em 0;
+
+}
+
+.boton_big{
+    
+    border-radius:0.12em;
+    box-sizing: border-box;
+    text-decoration:none;
+    font-family:'Roboto',sans-serif;
+    font-weight:300;
+    color:#000000;
+    text-align:center;
+    transition: all 0.2s;
+
+    }
+    .boton_big:hover{
+    background-color:#000000;
+    cursor: pointer;
+
+    }
+    .boton_big:hover .button{
+        color:#FFFFFF;
+    }
+
+    .padre{
+        padding-left:27%;
+    }
+    
+
+
+    
+    
+  
+    
